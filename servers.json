@@ -796,4 +796,9 @@
             "beastmc.net"
         ]
     }
+    { 
+       "id": "Skirmish",
+        "name": "Skirmish Network",
+        "addresses": [
+            "skirmish.cc"
 ]
